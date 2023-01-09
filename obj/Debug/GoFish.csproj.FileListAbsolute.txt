@@ -1,0 +1,20 @@
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\bin\Debug\GoFish.exe
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\bin\Debug\GoFish.pdb
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.csprojResolveAssemblyReference.cache
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.Form1.resources
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.csproj.GenerateResource.Cache
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.exe
+C:\Users\ringenberg\Dropbox\Teaching\Fall2015\C#\HeadFirstCSharpCode\VS2012\Chapter_8\GoFish\obj\Debug\GoFish.pdb
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\bin\Debug\GoFish.exe.config
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.exe
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.pdb
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\bin\Debug\GoFish.exe
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\bin\Debug\GoFish.pdb
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\ResolveAssemblyReference.cache
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+D:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+N:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\bin\Debug\GoFish.exe.config
+N:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.exe
+N:\Fall 2015 Classe\C# Stuffs\GoFish\GoFish\obj\Debug\GoFish.pdb
